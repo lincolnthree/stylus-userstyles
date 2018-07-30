@@ -1,0 +1,19 @@
+@-moz-document regexp("https?://(?:www.)youtube.com/watch.*") {
+/* ==UserStyle==
+@name        YouTube Bigger Theater
+@author      gjbianco <gjbiancoiv@gmail.com> (https://github.com/gjbianco)
+@version     1.0.0
+@license     mit
+==/UserStyle== */
+#player-theater-container {
+  max-height: 100vh !important;
+}
+
+#masthead-container {
+  display: none;
+}
+
+#content {
+  margin-top: -55px;
+}
+}
