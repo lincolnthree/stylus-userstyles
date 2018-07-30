@@ -1,0 +1,18 @@
+@-moz-document regexp("https?://en.wikipedia.org/wiki/.*") {
+/* ==UserStyle==
+@name        Cleanpedia
+@author      gjbianco <gjbiancoiv@gmail.com> (https://github.com/gjbianco)
+@version     1.0.0
+@license     mit
+==/UserStyle== */
+
+#mw-head,
+#mw-panel,
+#mw-page-base {
+  display: none;
+}
+
+#content {
+  margin-left: 0;
+}
+}
