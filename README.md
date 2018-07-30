@@ -1,0 +1,1 @@
+A collection of some of my thrown-together user styles. Some simply hide a couple of annoying elements (e.g. toolbar on outline.com). Others try to accomplish a particular task (e.g. larger YouTube player).
