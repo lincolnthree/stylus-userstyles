@@ -1,0 +1,25 @@
+@-moz-document domain("lifehacker.com") {
+/* ==UserStyle==
+@name        lifehacker clean
+@author      gjbianco <gjbiancoiv@gmail.com> (https://github.com/gjbianco)
+@version     1.0.0
+@license     mit
+==/UserStyle== */
+
+.topnav,
+.sidebar {
+  display: none !important;
+}
+
+.js_top-nav {
+  height: 80px !important;
+  margin-top: -21px;
+}
+
+.main,
+.main__content {
+  width: 100% !important;
+  border: none !important;
+  float: none !important;
+}
+}
