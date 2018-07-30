@@ -3,7 +3,7 @@
 @name        YouTube Bigger Theater
 @namespace   guy.sh
 @author      gjbianco <gjbiancoiv@gmail.com> (https://github.com/gjbianco)
-@version     1.0.0
+@version     1.1.0
 @license     mit
 ==/UserStyle== */
 #player-theater-container {
@@ -16,5 +16,13 @@
 
 #content {
   margin-top: -55px;
+}
+
+#comments {
+  display: none;
+}
+
+#container > ytd-expander {
+  margin-top: 60px;
 }
 }
