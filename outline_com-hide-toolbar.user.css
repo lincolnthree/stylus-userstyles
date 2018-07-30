@@ -1,0 +1,12 @@
+@-moz-document domain("outline.com") {
+/* ==UserStyle==
+@name        outline.com hide toolbar
+@author      gjbianco <gjbiancoiv@gmail.com> (https://github.com/gjbianco)
+@version     1.0.0
+@license     mit
+==/UserStyle== */
+
+.outline-toolbar {
+  display: none;
+}
+}
