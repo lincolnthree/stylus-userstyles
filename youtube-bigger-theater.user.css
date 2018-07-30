@@ -1,6 +1,7 @@
 @-moz-document regexp("https?://(?:www.)youtube.com/watch.*") {
 /* ==UserStyle==
 @name        YouTube Bigger Theater
+@namespace   guy.sh
 @author      gjbianco <gjbiancoiv@gmail.com> (https://github.com/gjbianco)
 @version     1.0.0
 @license     mit
