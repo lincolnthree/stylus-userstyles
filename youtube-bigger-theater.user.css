@@ -10,16 +10,8 @@
   max-height: 100vh !important;
 }
 
-#masthead-container {
-  display: none;
-}
-
 #content {
   margin-top: -55px;
-}
-
-#comments {
-  display: none;
 }
 
 #container > ytd-expander {
